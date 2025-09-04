@@ -33,7 +33,7 @@ Simulate an IAM environment in Azure Entra ID:
 ### Creating DevUser
 
 
-### DevUser Created
+### DevUser User Administrator Role for Group
 
 ![User List](./screenshots/Screenshot%202025-09-04%20121033.png)
 ### Creating ViewUser
