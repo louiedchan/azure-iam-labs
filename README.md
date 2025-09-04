@@ -22,6 +22,22 @@ Simulate an IAM environment in Azure Entra ID:
 ---
 
 ## Screenshots
+## Step 2: Create Users
+
+### Navigate to Users
+![All Users - Before]()
+
+### Creating DevUser
+![Create DevUser](./screenshots/create-devuser.png)
+
+### DevUser Created
+![DevUser Profile](./screenshots/devuser-profile.png)
+
+### Creating ViewUser
+![Create ViewUser](./screenshots/create-viewuser.png)
+
+### All Users List
+![All Users After](./screenshots/all-users-after.png)
 
 
 ---
