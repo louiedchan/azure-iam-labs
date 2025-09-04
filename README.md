@@ -22,7 +22,7 @@ Simulate an IAM environment in Azure Entra ID:
 ---
 
 ## Screenshots
-_Add screenshots here once uploaded._  
+
 
 ---
 
