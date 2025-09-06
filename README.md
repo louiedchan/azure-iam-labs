@@ -38,8 +38,7 @@ Simulate an IAM environment in Azure Entra ID:
 ### Step 4: ViewUser assigning the Directory Reader Role for Group
 ![User List](./screenshots/Screenshot%202025-09-04%20121233.png)
 
-### All Users List
-![All Users After](./screenshots/all-users-after.png)
+
 
 
 ---
