@@ -59,7 +59,7 @@ Simulate an IAM environment in Azure Entra ID:
 ![All Users After](./screenshots/Screenshot%202025-09-04%20130735.png)
 
 ## Reset the password for TestUser1 as DevUser
-![All Users After](./)
+![All Users After](./screenshots/Screenshot%202025-09-04%20130921.png)
 
 
 ## Key Takeaways
