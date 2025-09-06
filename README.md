@@ -52,6 +52,16 @@ Simulate an IAM environment in Azure Entra ID:
 
 ![All Users After](./screenshots/Screenshot%202025-09-04%20122654.png)
 
+
+##Step 6: Permissions and Limits logged in as DevUser(developer)
+
+## Logged in as DevUser created a user named TestUser1
+![All Users After](./screenshots/Screenshot%202025-09-04%20130735.png)
+
+## Reset the password for TestUser1 as DevUser
+![All Users After](./)
+
+
 ## Key Takeaways
 - Learned user & group management in Entra ID.  
 - Practiced RBAC and least-privilege.  
