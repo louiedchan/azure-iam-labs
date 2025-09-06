@@ -1,6 +1,6 @@
 # azure-iam-labs
 Hands-on labs in Microsoft Azure Entra ID (IAM, RBAC, users, groups, least privilege
-# Lab 1: Tenant-Only IAM Setup
+# Lab: Tenant-Only IAM Setup
 
 ## Objective
 Simulate an IAM environment in Azure Entra ID:
