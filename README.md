@@ -43,8 +43,14 @@ Simulate an IAM environment in Azure Entra ID:
 
 
 ---
-###Step 5: Permissions and Limits for ViewUser 
+###Step 5: Permissions and Limits logged in as ViewUser 
+
+## Could not edit any user information
 ![All Users After](./screenshots/Screenshot%202025-09-04%20122403.png)
+
+## Could not be able to reset my own or any other user password
+
+![All Users After](./screenshots/Screenshot%202025-09-04%20122654.png)
 
 ## Key Takeaways
 - Learned user & group management in Entra ID.  
