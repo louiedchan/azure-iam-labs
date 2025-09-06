@@ -36,8 +36,8 @@ Simulate an IAM environment in Azure Entra ID:
 ### DevUser User Administrator Role for Group
 
 ![User List](./screenshots/Screenshot%202025-09-04%20121033.png)
-### Creating ViewUser
-![Create ViewUser](./screenshots/create-viewuser.png)
+### ViewUser assigning the Directory Reader Role for Group
+![User List](./screenshots/Screenshot%202025-09-04%20121233.png)
 
 ### All Users List
 ![All Users After](./screenshots/all-users-after.png)
