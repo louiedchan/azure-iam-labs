@@ -22,10 +22,9 @@ Simulate an IAM environment in Azure Entra ID:
 ---
 
 ## Screenshots
-## Step 2: Create Users
-![User List](./screenshots/Screenshot%202025-09-04%20122311.png)
+
 ### Navigate to Users
-## User List After Creating DevUser and ViewUser
+## Step 2: User List After Creating DevUser and ViewUser
 
 ![User List](./screenshots/Screenshot%202025-09-04%20120524.png)
 
@@ -44,6 +43,8 @@ Simulate an IAM environment in Azure Entra ID:
 
 
 ---
+###Step 5: Permissions and Limits for ViewUser 
+![All Users After](./screenshots/Screenshot%202025-09-04%20122403.png)
 
 ## Key Takeaways
 - Learned user & group management in Entra ID.  
